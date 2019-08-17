@@ -1,3 +1,10 @@
+Description
+-----------
+1.Blog db structure in `blog_dump.sql` 
+
+2.A/B tests in `index.php` and `/src`
+
+
 Requirements
 ------------
 
@@ -6,6 +13,6 @@ Requirements
 
 Usage
 -----
-`php -S localhost:8000 index.php`
+run `php -S localhost:8000 index.php`
 
-`open in browser http://http://127.0.0.1:8000/`
+open in browser `http://http://127.0.0.1:8000/`
