@@ -1,6 +1,6 @@
 Description
 -----------
-1.Blog db structure in `blog_dump.sql` 
+1.Blog database structure in `blog_dump.sql` 
 
 2.A/B tests in `index.php` and `/src`
 
